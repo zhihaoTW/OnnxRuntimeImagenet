@@ -1,0 +1,4 @@
+請下載Onnx 模型，才可進行模型任一層資料輸出
+
+Example:
+resnet50v2.onnx
